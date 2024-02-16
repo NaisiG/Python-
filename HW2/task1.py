@@ -7,7 +7,7 @@ num = 0
 # Введите ваше решение ниже
 def int_to_hex(num):
   if num > 0:
-	  return hex(num)[2:]
+    return hex(num)[2:]
   else:
     return ""
 result = int_to_hex(num)
