@@ -27,10 +27,6 @@ test_employee_last_name_title: Тестирование атрибута last_na
 
 ..F.. """
 
-import warnings
-
-warnings.filterwarnings('ignore')
-
 import pytest
 
 class Person:
