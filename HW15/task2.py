@@ -20,4 +20,4 @@ def main():
 
 if __name__ == '__main__':
     main()
-# HW15/Task6.py -p hw15_utils ../task1  - запуск из командной строки
+# HW15/task2.py -p hw15_utils ../task1  - запуск из командной строки
